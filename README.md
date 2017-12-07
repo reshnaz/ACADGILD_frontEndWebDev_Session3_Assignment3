@@ -1,4 +1,23 @@
 # S3A3
+-------------------------------
+Please preview animal.html and hit F12 to access console & view output. 
+The HTML, animal.html uses transpiled js file, animal.js.
+
+Problem Statement:
+
+Create a Class Animal, should have a name, distance covered by and behavior
+of that animal:
+
+Class Animal {name: string; move(distance) {}; makeSound() {} ...}
+
+Then create 2 more class which will extend Animal class with its property and behaviour
+for each show the name, distance and sound.
+
+. For example:
+
+Class Tiger extends Animal {...}
+
+------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
